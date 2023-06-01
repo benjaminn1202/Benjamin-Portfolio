@@ -79,7 +79,7 @@ function showHome() {
 }
 
 function toTop() {
-    let onOff = false;
+    let onOff = true;
     if(onOff == true) {
         document.body.scrollTop = 0;
         document.documentElement.scrollTop = 0;
