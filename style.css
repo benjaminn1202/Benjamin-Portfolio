@@ -68,6 +68,9 @@ footer span, footer a {
     width: 250px;
     margin: 2%;
 }
+.nav-card img {
+    width: 100%;
+}
 /* CONTENT HOME - END */
 
 /* CONTENT ABOUT - START */
